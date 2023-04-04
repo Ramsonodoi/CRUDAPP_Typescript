@@ -1,0 +1,7 @@
+what we can further improve on the CRUD project
+
+1. Use React UI component library like Material UI, Microsoft fluentui etc
+2. Use state management library like Redux
+3. Use Backend application API to store data
+4. Use routing
+5. Use package for React form like React-Hook-Form or any package for form validation
